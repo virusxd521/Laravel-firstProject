@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,5 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?= var_dump($movies)?>
+    <h1>ssss</h1>
 </body>
 </html>
